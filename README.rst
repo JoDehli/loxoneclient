@@ -5,7 +5,7 @@ loxoneclient
     :target: https://pypi.python.org/pypi/loxoneclient
     :alt: Latest PyPI version
 
-.. image:: None.png
+.. image:: https://api.travis-ci.org/JoDehli/loxoneclient.svg?branch=master
    :target: None
    :alt: Latest Travis CI build status
 
